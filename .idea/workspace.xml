@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1de22b1-307a-4a66-ba1d-2edb5ede95e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WGf85xpoOkj5MkmAI9v3Q1hB0m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Documentation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JKC\IdeaProjects\selenium-framework\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DummyTest.testDummy">
+    <configuration name="DummyTest.testDummy" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaushik.testcaes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaushik.testcaes" />
+      <option name="MAIN_CLASS_NAME" value="com.kaushik.testcaes.DummyTest" />
+      <option name="METHOD_NAME" value="testDummy" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNavigationTest.testEventsPageLinkValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaushik.testcaes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaushik.testcaes" />
+      <option name="MAIN_CLASS_NAME" value="com.kaushik.testcaes.TopNavigationTest" />
+      <option name="METHOD_NAME" value="testEventsPageLinkValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNavigationTest.testFaqLinkValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaushik.testcaes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaushik.testcaes" />
+      <option name="MAIN_CLASS_NAME" value="com.kaushik.testcaes.TopNavigationTest" />
+      <option name="METHOD_NAME" value="testFaqLinkValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNavigationTest.testLiveTrainigWebinarsValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaushik.testcaes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaushik.testcaes" />
+      <option name="MAIN_CLASS_NAME" value="com.kaushik.testcaes.TopNavigationTest" />
+      <option name="METHOD_NAME" value="testLiveTrainigWebinarsValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNavigationTest.testZoomBlogPageLinkValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaushik.testcaes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaushik.testcaes" />
+      <option name="MAIN_CLASS_NAME" value="com.kaushik.testcaes.TopNavigationTest" />
+      <option name="METHOD_NAME" value="testZoomBlogPageLinkValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DummyTest.testDummy" />
+        <item itemvalue="TestNG.TopNavigationTest.testFaqLinkValidation" />
+        <item itemvalue="TestNG.TopNavigationTest.testZoomBlogPageLinkValidation" />
+        <item itemvalue="TestNG.TopNavigationTest.testEventsPageLinkValidation" />
+        <item itemvalue="TestNG.TopNavigationTest.testLiveTrainigWebinarsValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1de22b1-307a-4a66-ba1d-2edb5ede95e7" name="Default Changelist" comment="" />
+      <created>1578780689165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578780689165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1176" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579488310717">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="92" y="92" width="1176" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1360.728@0.0.1360.728" timestamp="1579488310717" />
+    <state x="485" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1579657055898">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1579657055898" />
+    <state x="242" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579487677311">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="242" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.728@0.0.1360.728" timestamp="1579487677311" />
+    <state x="460" y="96" key="FileChooserDialogImpl" timestamp="1580263379493">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="96" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1580263379493" />
+    <state width="1317" height="184" key="GridCell.Tab.0.bottom" timestamp="1579917982181">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="184" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1579917982181" />
+    <state width="1317" height="184" key="GridCell.Tab.0.center" timestamp="1579917982180">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="184" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1579917982180" />
+    <state width="1317" height="184" key="GridCell.Tab.0.left" timestamp="1579917982179">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="184" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1579917982179" />
+    <state width="1317" height="184" key="GridCell.Tab.0.right" timestamp="1579917982180">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="184" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1579917982180" />
+    <state width="1317" height="256" key="GridCell.Tab.1.bottom" timestamp="1579488309416">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="256" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1579488309416" />
+    <state width="1317" height="256" key="GridCell.Tab.1.center" timestamp="1579488309416">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="256" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1579488309416" />
+    <state width="1317" height="256" key="GridCell.Tab.1.left" timestamp="1579488309416">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="256" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1579488309416" />
+    <state width="1317" height="256" key="GridCell.Tab.1.right" timestamp="1579488309416">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="256" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1579488309416" />
+    <state x="388" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1580865606423">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="388" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1580865606423" />
+    <state x="62" y="71" key="new project wizard" timestamp="1580571861030">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="71" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1580571861030" />
+  </component>
+</project>
